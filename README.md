@@ -13,7 +13,8 @@ It helps learners and professionals understand cloud concepts, prepare for inter
 Try it here 👉 [CloudSage on PartyRock](https://partyrock.aws/u/shagun26/oV0qx5BYS/CloudSage)
 
 ## 📸 Screenshots
-
+<img width="1896" height="1001" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/7b44e4ba-caf5-41b0-a321-7aee8507020e" />
+![CloudSage Demo](https://partyrock.aws/u/shagun26/oV0qx5BYS/CloudSage/snapshot/d1QqLu1CL)
 
 ## 🛠 Built With
 - [AWS PartyRock](https://aws.amazon.com/partyrock/) (no-code generative AI builder powered by Amazon Bedrock)
