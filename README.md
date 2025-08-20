@@ -11,7 +11,7 @@ It helps learners and professionals understand cloud concepts, prepare for inter
 
 ## 🔗 Live Demo
 Try it here 👉 [CloudSage on PartyRock](https://partyrock.aws/u/shagun26/oV0qx5BYS/CloudSage)
-
+![CloudSage Screenshot](https://partyrock.aws/u/shagun26/oV0qx5BYS/CloudSage/snapshot/d1QqLu1CL)
 ## 📸 Screenshots
 <img width="1896" height="1001" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/7b44e4ba-caf5-41b0-a321-7aee8507020e" />
 ![CloudSage Demo](https://partyrock.aws/u/shagun26/oV0qx5BYS/CloudSage/snapshot/d1QqLu1CL)
