@@ -22,4 +22,3 @@ Try it here 👉 [CloudSage on PartyRock](https://partyrock.aws/u/shagun26/oV0qx
 - Prompt engineering
 - No-code generative AI prototyping
 - Applying AI to cloud learning & interview preparation
--
